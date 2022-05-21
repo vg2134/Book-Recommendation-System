@@ -14,3 +14,6 @@ The Book Recommendation System will suggest books to the user based on -
 3. top-rated books by other users who have read similar books as this particular user
 
 Apart from recommendations, we also perform some analytics on the data to find the reading and publishing trends among the users. We have observed some interesting trends, which are mentioned in the Results section. The detailed process of obtaining recommendations is described in the Design Diagram and Results sections.
+
+## Architecture ##
+https://drive.google.com/file/d/1REJN5ucKlivvXSeLQTe6Yy0Xd8m7WKou/view?usp=sharing
